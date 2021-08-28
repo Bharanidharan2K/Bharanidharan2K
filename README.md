@@ -19,8 +19,8 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Java Badge](https://img.shields.io/badge/-Java-1b9aa6?style=for-the-badge&labelColor=black&logo=java&logoColor=1b9aa6)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-b51800?style=for-the-badge&labelColor=black&logo=angular&logoColor=b51800)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Spring Badge](https://img.shields.io/badge/-Spring-3C873A?style=for-the-badge&labelColor=black&logo=spring&logoColor=3C873A)](#) [![BootStrap Badge](https://img.shields.io/badge/-BootStrap-6b04bf?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6b04bf)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-3238e3?style=for-the-badge&labelColor=black&logo=java&logoColor=3238e3)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-b51800?style=for-the-badge&labelColor=black&logo=angular&logoColor=b51800)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Spring Badge](https://img.shields.io/badge/-Spring-3C873A?style=for-the-badge&labelColor=black&logo=spring&logoColor=3C873A)](#) [![BootStrap Badge](https://img.shields.io/badge/-BootStrap-6b04bf?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6b04bf)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-c4253d?style=for-the-badge&labelColor=black&logo=mysql&logoColor=c4253d)](#)
 
 #### Tools Worked with
 
