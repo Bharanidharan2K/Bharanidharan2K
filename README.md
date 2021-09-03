@@ -9,7 +9,7 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Spring
+- 🔭 I’m currently working on shopping-cart
 - 💙 Most prefered Language `Java`
 - 🌱 I Love solve Leetcode Problem
 - 📫 How to reach me: bharanikkab@gmail.com.
