@@ -11,7 +11,7 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 
 - 🔭 I’m currently working on shopping-cart
 - 💙 Most prefered Language `Java`
-- 🌱 I Love solve Leetcode Problem
+- 🌱 I Love to solve Leetcode Problem
 - 📫 How to reach me: bharanikkab@gmail.com.
 - 💬 Ask me about Core Java, Hypertext Markup Language, CSS, JavaScript
 - ⚡ Fun fact: I spend almost half 🎵 of the day listening to songs.
