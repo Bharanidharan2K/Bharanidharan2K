@@ -4,7 +4,6 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bharanidharan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharanidharan-k-7b9352188/) 
 [![Mail Badge](https://img.shields.io/badge/-@Bharani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharanikkab@gmail.com)
 
 <!-- TODO: Add last video link -->
