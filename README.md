@@ -4,15 +4,15 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-@Bharani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharanikkab@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-@Bharani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharanidharankathiresan@gmail.com)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on shopping-cart
-- 💙 Most prefered Language `Java`
+- 🔭 I’m currently working on Air-bnb clone
+- 💙 Most prefered Language `JavaScript`
 - 🌱 I Love to solve Leetcode Problem
-- 📫 How to reach me: bharanikkab@gmail.com.
-- 💬 Ask me about Core Java, Hypertext Markup Language, CSS, JavaScript
+- 📫 How to reach me: bharanidharankathiresan@gmail.com.
+- 💬 Ask me about Core Java, JavaScript and Angular
 - ⚡ Fun fact: I spend almost half 🎵 of the day listening to songs.
 
 #### Top Technologies
