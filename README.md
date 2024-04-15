@@ -9,25 +9,29 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on Air-bnb clone
-- 💙 Most prefered Language `JavaScript`
+- 💙 Most worked Stack `FrontEnd`
 - 🌱 I Love to solve Leetcode Problem
 - 📫 How to reach me: bharanidharankathiresan@gmail.com.
-- 💬 Ask me about Core Java, JavaScript and Angular
+- 💬 Ask me about Angular
 - ⚡ Fun fact: I spend almost half 🎵 of the day listening to songs.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Java Badge](https://img.shields.io/badge/-Java-3238e3?style=for-the-badge&labelColor=black&logo=java&logoColor=3238e3)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-b51800?style=for-the-badge&labelColor=black&logo=angular&logoColor=b51800)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Spring Badge](https://img.shields.io/badge/-Spring-3C873A?style=for-the-badge&labelColor=black&logo=spring&logoColor=3C873A)](#) [![BootStrap Badge](https://img.shields.io/badge/-BootStrap-6b04bf?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6b04bf)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-c4253d?style=for-the-badge&labelColor=black&logo=mysql&logoColor=c4253d)](#)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-b51800?style=for-the-badge&labelColor=black&logo=angular&logoColor=b51800)](#) 
+[![React Badge](https://img.shields.io/badge/-React-149eca?style=for-the-badge&labelColor=black&logo=react&logoColor=149eca)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-6b04bf?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=6b04bf)](#) 
+[![.NET Badge](https://img.shields.io/badge/-.NET-5027d5?style=for-the-badge&labelColor=black&logo=.net&logoColor=5027d5)](#) 
+[![Azure Badge](https://img.shields.io/badge/-Azure-3238e3?style=for-the-badge&labelColor=black&logo=azure&logoColor=3238e3)](#)
+[![SQL Badge](https://img.shields.io/badge/-SQL-0072c6?style=for-the-badge&labelColor=black&logo=sql&logoColor=0072c6)](#)
 
 #### Tools Worked with
 
 
 <img align="left" alt="Visual Studio Code" width="26px" style="padding: 0px 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Spring" width="26px" style="padding:0px 3px" src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" />
-
 
 <img align="left" alt="Adobe XD" width="26px" style="padding:0px 3px" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1869035-1583159.png" />
 
@@ -48,21 +52,7 @@ I'm Bharanidharan a Software Engineer. I Spend most of time solving problem in L
 
 <br >
 
-I am a Software Engineer enthusiast with great excitement and motivation to build cutting-edge software and I am pursuing Bachelors of Engineering in the stream of Electronics and Communication Engineering and I have Some knowledge in Java, Angular, HTML, CSS, JavaScript, GitHub.
-I am highly motivated in applying for the position which offers an opportunity to deeply immerse myself in
-my work as well as learning new things will help me exercise my innovative and creative skills in software design and development.
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Java         15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-TypeScript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+I am a Software Engineer enthusiast with a strong passion and motivation for building cutting-edge software and I have skilled in Angular, React, Azure, JavaScript and GitHub. With two years of experience under my belt, I am highly motivated to apply for positions that offer the opportunity to deeply immerse myself in my work while continuously learning and honing my innovative and creative skills in software design and development.
 
 </details>
 
